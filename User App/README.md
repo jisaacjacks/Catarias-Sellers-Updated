@@ -1,4 +1,4 @@
-# flutter_sixvalley_ecommerce
+# Catarias
 
 A new Flutter setup application for starting a project.
 
