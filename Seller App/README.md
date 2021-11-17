@@ -1,4 +1,4 @@
-# sixvalley_vendor_app
+# Catarias
 
 A new Flutter application.
 
